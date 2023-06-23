@@ -7,3 +7,4 @@ Check any stock's change in price from the desired date to now.
   * based on price change, price history, current and past markets, industry comparison, and prediction.
 
 * Make into a web app and make i/o look nice.
+  * look nice on both mobile and pc
