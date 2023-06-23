@@ -1,16 +1,7 @@
-#import re
-#import json
-#from io import StringIO
-#from bs4 import BeautifulSoup
-#import requests
-#import gspread
-#from oauth2client.service_account import ServiceAccountCredentials
-#import pandas as pd
-#import pandas_datareader as pdr
 import yfinance as yf
 from datetime import date
 from datetime import timedelta
-import numpy # to use ai
+import numpy # to format the array
 
 
 #define the ticker symbol
@@ -39,10 +30,6 @@ first_value = allData[0][3]
 last_value = allData[-1][3]
 
 result = last_value - first_value
-  #sign = ""
-  #if (result > 0):
-    #sign = "+"
-  #print("The change in value of " + tickerSymbol + " from " + startDate + " to now is: " + sign + str(result))
 
 #prints if the stock has gone up or down since the startDate and by how much
 if(result > 0):
