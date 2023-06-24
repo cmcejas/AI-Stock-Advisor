@@ -26,8 +26,8 @@ allData = [[item for item in row if not str(item).endswith('.0')] for row in all
     print(item)
 '''
 # prints out the result
-first_value = allData[0][3]
-last_value = allData[-1][3]
+first_value = allData[0][0]
+last_value = allData[-1][-1]
 
 result = last_value - first_value
 
