@@ -1,10 +1,5 @@
-# Stock Checker
-Check any stock's change in price from the desired date to now.
+# Stock Advisor
 
-##
-##  Desired Changes
-* Add an AI to reccomend wether you should invest more in, buy, or sell.
-  * based on price change, price history, current and past markets, industry comparison, and prediction.
-
-* Make into a web app and make i/o look nice.
-  * look nice on both mobile and pc
+Provides advice and information on buying or selling certain stocks based on many factors powered by Bing Chat and ChatGPT.
+- The advice and information given must always be checked
+- The bot is not a financial consultant. However, it gives opinions and forecasts to help the user make the final decision
