@@ -1,5 +1,3 @@
-# AI Stock Advisor
-
 ![alt text](https://github.com/cmcejas/AI-Stock-Advisor/blob/main/AI%20Stock%20Advisor.png)
 
 Provides advice and information on buying or selling certain stocks based on many factors powered by Bing Chat and ChatGPT.
