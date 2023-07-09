@@ -1,4 +1,4 @@
-# Stock Advisor
+# AI Stock Advisor
 
 Provides advice and information on buying or selling certain stocks based on many factors powered by Bing Chat and ChatGPT.
 - The advice and information given must always be checked
